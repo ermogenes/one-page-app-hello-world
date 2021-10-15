@@ -1,5 +1,5 @@
-# web-template
+# vanilla-spa-hello-world
 
-Um template para projetos web, com ferramentas pré-configuradas.
+Uma aplicação simples que utiliza [vanilla-router](https://github.com/Graidenix/vanilla-router) para criar uma SPA com pouquíssimo código.
 
-Mais informações em https://github.com/ermogenes/web-template-tutorial.
+Criado a partir de https://github.com/ermogenes/web-template.
