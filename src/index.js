@@ -6,6 +6,7 @@ const showMessage = (markup) => {
 
 const router = new Router({
   mode: 'history',
+  root: '/one-page-app-hello-world', // GitHub Pages root pathname
   page404: (path) => showMessage(`Página não encontrada: /${path}`),
 });
 
